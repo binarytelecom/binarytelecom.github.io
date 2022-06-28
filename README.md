@@ -1,1 +1,1 @@
-#Binary Telecom site.
+Binary Telecom site.
